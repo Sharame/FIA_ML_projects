@@ -1,6 +1,0 @@
-{
-  "sets_in_range": true,
-  "set_id_unique": true,
-  "no_sets_for_skipped": true,
-  "sets_required_cols_nonnull": true
-}
