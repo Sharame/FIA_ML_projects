@@ -1,0 +1,21 @@
+exercise_id,exercise_name,target_muscle_group,split_cat
+1,Bench Press,Chest,Push
+2,Incline Dumbbell Press,Chest,Push
+3,Overhead Press,Shoulders,Push
+4,Lateral Raises,Shoulders,Push
+5,Tricep Dips,Triceps,Push
+6,Tricep Pushdowns,Triceps,Push
+7,Pull-ups,Back,Pull
+8,Bent-Over Rows,Back,Pull
+9,Lat Pulldowns,Back,Pull
+10,Face Pulls,Back,Pull
+11,Barbell Curls,Biceps,Pull
+12,Hammer Curls,Biceps,Pull
+13,Squats,Quads,Legs
+14,Leg Press,Quads,Legs
+15,Lunges,Quads,Legs
+16,Romanian Deadlifts,Hamstrings,Legs
+17,Leg Curls,Hamstrings,Legs
+18,Calf Raises,Calves,Legs
+19,Deadlifts,Back,FullBody
+20,Power Cleans,Full,FullBody
