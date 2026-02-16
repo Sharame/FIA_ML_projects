@@ -1,4 +1,4 @@
-##**Ordine di esecuzione notebook**
+## **Ordine di esecuzione notebook**
 
 1. TARGET_FIX
 2. EDA
